@@ -8,7 +8,7 @@ public class Homework10SortArray {
 	public static void sortArray() {
 
 		//Generate random numbers and sort
-		int numbers = 10;
+		int numbers = 6;
 		int[] arrayNumber = new int[numbers];
 		arrayNumber = createRandomArray(numbers);
 		System.out.print("Our random unsorted array is: \n");
