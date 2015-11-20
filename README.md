@@ -6,7 +6,7 @@
 For this part of our homework we were to write a program that sorts 6 numbers. The program had to use an array, if statements, and method calls.
 
 ### Code
-```
+```java
 public class Homework10SortArray {
 	public static void main(String[] args) {
 		System.out.println("This program uses arrays and if statements to sort numbers.\n");
@@ -77,7 +77,7 @@ public class Homework10SortArray {
 ```
 ### Console Tests
 Case One:
-```
+```java
 This program uses arrays and if statements to sort numbers.
 
 Our random unsorted array is: 
@@ -87,7 +87,7 @@ Our sorted array is:
 204 347 999 3687 3885 4735 .
 ```
 Case Two:
-```
+```java
 This program uses arrays and if statements to sort numbers.
 
 Our random unsorted array is: 
@@ -97,7 +97,7 @@ Our sorted array is:
 822 1315 1679 1846 2641 5704 .
 ```
 Case Three:
-```
+```java
 This program uses arrays and if statements to sort numbers.
 
 Our random unsorted array is: 
